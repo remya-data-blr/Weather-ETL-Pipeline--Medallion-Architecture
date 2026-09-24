@@ -28,7 +28,8 @@ Live weather data pipeline for 5 Indian cities using Open-Meteo free API.
 ```bash
 pip install requests pandas
 python weather_pipeline.py
-python run_sql.py```
+python run_sql.py
+```
 
 
 ## 📊 Output - Gold Layer Analytics##
