@@ -30,7 +30,10 @@ pip install requests pandas
 python weather_pipeline.py
 python run_sql.py
 
-## 📊 Output - Gold Layer Analytics
-Hottest City: Delhi 30.4°C
-Average Temp: 27.0°C
 
+## 📊 Output - Gold Layer Analytics##
+**Hottest City: Delhi 30.4°C**
+**Average Temp: 27.0°C**
+
+## 👩‍💻 Author
+Remya | Aspiring Data Engineer | Bangalore
